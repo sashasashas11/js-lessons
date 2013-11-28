@@ -1,0 +1,12 @@
+{
+"field": 1,
+"float": 1.0,
+"type": "asd",
+"nothing": null,
+"boolean": true,
+"mas": ["",1,{}],
+"obj": {
+	"asd": 3
+}
+
+}
